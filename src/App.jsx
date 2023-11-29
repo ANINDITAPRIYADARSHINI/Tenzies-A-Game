@@ -72,7 +72,7 @@ export default function App() {
 
       <h1 className="text-2xl font-bold m-0 mb-10">Tenzies</h1>
 
-      <p className="font-sans font-normal mt-0 mb-10 text-center">
+      <p className="font-sans flex font-normal mt-0 mb-10 text-center">
         Roll until all dice are the same. Click each die to freeze it at its
         current value between rolls.
       </p>
